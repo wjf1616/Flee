@@ -1,0 +1,21 @@
+{
+    "showFPS": true, 
+    "noCache": false, 
+    "modules": [
+        "cocos2d", 
+        "cocostudio", 
+        "editbox"
+    ], 
+    "frameRate": 60, 
+    "jsList": [
+        "src/AutoConfig.js", 
+        "src/resource.js", 
+        "src/common.js", 
+        "src/AssetsManager.js"
+    ], 
+    "project_type": "javascript", 
+    "debugMode": 1, 
+    "engineDir": "frameworks/cocos2d-html5", 
+    "renderMode": 0, 
+    "id": "gameCanvas"
+}

@@ -1,0 +1,12 @@
+{ 
+    "packageUrl" : "http://localhost/Flee/Server/WebService/hotUpdateService/res/",
+    "remoteManifestUrl" : "http://localhost/Flee/Server/WebService/hotUpdateService/res/project.manifest",
+    "remoteVersionUrl" : "http://localhost/Flee/Server/WebService/hotUpdateService/res/version.manifest",
+    "version" : "1.0.0",
+    "groupVersions" : {
+        "1" : "1.0.1",
+        "2" : "1.0.2",
+        "3" : "1.1.0"
+    }, 
+    "engineVersion" : "3.16" 
+}
